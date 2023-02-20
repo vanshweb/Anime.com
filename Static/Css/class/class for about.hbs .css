@@ -1,0 +1,23 @@
+/* button */
+.Button-for-singin{
+    display: flex;
+    position: relative;
+    left: 618px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: lightpink;
+    cursor: pointer;
+}
+
+
+/* H1-primary */
+h1{
+    color: white;
+    margin: 15px 3px;
+    text-align: center;
+}
+
+/* hr */
+hr{
+    color: white;
+}

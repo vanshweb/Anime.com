@@ -1,0 +1,20 @@
+Server floder:-
+    Server floder containes app.js that is used to run website on localhost.
+
+Views floder:-
+    Views floder containes hbs files that are used to make structure of website.
+
+Static floder:-
+    Static floder containes all staic floder like css or img that used in website.
+
+Css floder:-
+    Css floder containes all css files that used to make website prety.
+
+Js floder:-
+    Js floder containes all js files that used to give some cool features.
+
+Img floder:-
+    Img floder containes all images that need in website.
+
+Logo floder:-
+    Logo floder containes all logo that need in website.

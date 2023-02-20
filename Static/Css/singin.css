@@ -1,0 +1,244 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+html{
+    background-color: #d4e0e0;
+}
+/* Navbar */
+#Navbar{
+    display: flex;
+    height: 125px;
+    background-image: linear-gradient(to bottom right, rgb(223, 147, 241) ,rgb(84, 74, 236));
+    align-items: center;
+    color: black;
+}
+
+/* logo */
+#Navbar-logo{
+    height: 100px;
+    width: 100px;
+}
+
+#Navbar-logo-image{
+    height: 100px;
+    width: 100px;
+    margin: 3px 10px;
+}
+/* items */
+#Conatiner-for-items{
+    display: flex;
+    position: relative;
+    left: 325px;
+}
+ul{
+    display: flex;
+}
+li{
+    display: flex;
+    list-style: none;
+}
+#Home-logo{
+    height: 35px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    margin: 3px 15px;
+}
+a:hover{
+    border: 2px solid black;
+}
+/* button */
+/* is in class for index.hbs.css *//* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+html{
+    background-color: #d4e0e0;
+}
+/* Navbar */
+#Navbar{
+    display: flex;
+    height: 125px;
+    background-image: linear-gradient(to bottom right, rgb(223, 147, 241) ,rgb(84, 74, 236));
+    align-items: center;
+    color: black;
+}
+
+/* logo */
+#Navbar-logo{
+    height: 100px;
+    width: 100px;
+}
+
+#Navbar-logo-image{
+    height: 100px;
+    width: 100px;
+    margin: 3px 10px;
+}
+/* items */
+#Conatiner-for-items{
+    display: flex;
+    position: relative;
+    left: 325px;
+}
+ul{
+    display: flex;
+}
+li{
+    display: flex;
+    list-style: none;
+}
+#Home-logo{
+    height: 35px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    margin: 3px 15px;
+}
+a:hover{
+    border: 2px solid black;
+}
+/* button */
+/* is in class for index.hbs.css *//* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 40px;
+}
+html{
+    background-color: #d4e0e0;
+}
+/* Navbar */
+#Navbar{
+    display: flex;
+    height: 125px;
+    background-image: linear-gradient(to bottom right, rgb(223, 147, 241) ,rgb(84, 74, 236));
+    align-items: center;
+    color: black;
+}
+
+/* logo */
+#Navbar-logo{
+    height: 100px;
+    width: 100px;
+}
+
+#Navbar-logo-image{
+    height: 100px;
+    width: 100px;
+    margin: 3px 10px;
+}
+/* items */
+#Conatiner-for-items{
+    display: flex;
+    position: relative;
+    left: 325px;
+}
+ul{
+    display: flex;
+}
+li{
+    display: flex;
+    list-style: none;
+}
+#Home-logo{
+    height: 35px;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    margin: 3px 15px;
+}
+a:hover{
+    border: 2px solid black;
+}
+/* button */
+/* is in class for index.hbs.css */
+
+/* FORM */
+.fom{
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.fom h2{
+    text-align: center;
+}
+
+form{
+    border: 2px solid black;
+ 
+    width: 60%;
+    margin: auto;
+  
+}
+
+#container{
+    height: 800px;
+}
+
+
+input , textarea{
+
+    display: block;
+    width: 50%;
+
+    margin: 10px auto;
+}
+
+
+
+.btn{
+    cursor: pointer;
+    display: block;
+    width: 20%;
+    margin: auto;
+    font-size: 45px;
+    border-radius: 4px;
+    background-color: rgb(88, 5, 19);
+    color: black;
+}
+/* footer */
+#footer{
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px 3px ;
+}
+
+#Logos-for-social media{
+    display: flex;
+    flex-direction: row;
+}
+
+#footer img{
+    height: 100px;
+}
+
+/* footer */
+#footer{
+    display: flex;
+    border: 2px solid black;
+    align-items: center;
+    flex-direction: column;
+}
+
+#Logos-for-social media{
+    display: flex;
+    flex-direction: row;
+}
+
+#footer img{
+    height: 100px;
+}
